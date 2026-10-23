@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://urgenciastarragona.es/sitemap.xml
